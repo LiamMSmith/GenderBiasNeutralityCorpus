@@ -1,0 +1,4 @@
+BLEU score for Baseline Model (gpt-3.5-turbo-0125 no finetune):
+{'bleu': 0.4893621223754298, 'precisions': [0.7614475627769571, 0.650987525987526, 0.5785419532324622, 0.5202801283921797], 'brevity_penalty': 0.787379602634108, 'length_ratio': 0.80707331611365, 'translation_length': 4062, 'reference_length': 5033}
+BLEU score for Finetune Model (gpt-3.5-turbo-0125 with finetune):
+{'bleu': 0.8051747703470756, 'precisions': [0.9084194977843427, 0.8814968814968815, 0.8580467675378267, 0.8374671724540415], 'brevity_penalty': 0.9244717899263821, 'length_ratio': 0.927185574069847, 'translation_length': 4062, 'reference_length': 4381}

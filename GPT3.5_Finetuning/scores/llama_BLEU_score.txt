@@ -1,0 +1,4 @@
+BLEU score for Llama model baseline:
+{'bleu': 0.3402566729362541, 'precisions': [0.42867774745720666, 0.35916230366492147, 0.3146814404432133, 0.27665198237885463], 'brevity_penalty': 1.0, 'length_ratio': 1.6046974522292994, 'translation_length': 4031, 'reference_length': 2512}
+BLEU score for Llama model finetune:
+{'bleu': 0.6266642667634633, 'precisions': [0.9071552364446646, 0.8766657956623988, 0.8539823008849557, 0.8343108504398827], 'brevity_penalty': 0.7222903663355853, 'length_ratio': 0.7545301699981319, 'translation_length': 4039, 'reference_length': 5353}

@@ -1,0 +1,9 @@
+bertscore for Llama model baseline:
+System Precision:  0.6703
+System Recall:  0.6880
+System F1:  0.6787
+
+bertscore for Llama model finetune:
+System Precision:  0.9668
+System Recall:  0.9298
+System F1:  0.9468

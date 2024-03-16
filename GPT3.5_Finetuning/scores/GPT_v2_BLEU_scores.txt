@@ -1,0 +1,2 @@
+BLEU score for Baseline Model (gpt-3.5-turbo-0125 finetune v2):
+{'bleu': 0.8110520485407869, 'precisions': [0.9214672575086165, 0.8944906444906445, 0.869050894085282, 0.8468047855266997], 'brevity_penalty': 0.9190257274317757, 'length_ratio': 0.9221339387060159, 'translation_length': 4062, 'reference_length': 4405}
